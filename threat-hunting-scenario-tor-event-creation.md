@@ -75,7 +75,7 @@ DeviceFileEvents
 ## Created By:
 - **Author Name**: Reid Stosik
 - **Author Contact**: https://www.linkedin.com/in/rstosik/
-- **Date**: February 12, 2025
+- **Date**: November 8, 2024
 
 ## Validated By:
 - **Reviewer Name**: 
@@ -92,4 +92,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `February  15, 2025`  | `Reid Stosik`   
+| 1.0         | Initial draft                  | `November  10, 2024`  | `Reid Stosik`   
